@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Gaminda Premasiri
 
-**AI/ML Engineer | NLP • RAG Systems • Applied AI**
+**AI/ML Engineer | Applied NLP, RAG Systems & Intelligent AI Applications**
 
 AI/ML Engineer with hands-on experience building **production-ready AI systems**, not just models. Strong focus on **NLP, Retrieval-Augmented Generation (RAG), AI detection, and intelligent chatbots**.
 
