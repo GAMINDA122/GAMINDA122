@@ -1,94 +1,39 @@
-# 👋 Hi, I’m Gaminda Premasiri
+# 👋 Gaminda Premasiri
 
-**AI/ML Engineer (Trainee) | Applied NLP, RAG Systems & Intelligent AI Applications**
+**AI/ML Engineer | NLP • RAG Systems • Applied AI**
 
-I am an AI/ML Engineer with strong hands-on experience in building **production-oriented AI systems**, not just academic models. My work focuses on **Natural Language Processing (NLP), Retrieval-Augmented Generation (RAG), AI detection, conversational systems, and applied machine learning**.
+AI/ML Engineer with hands-on experience building **production-ready AI systems**, not just models. Strong focus on **NLP, Retrieval-Augmented Generation (RAG), AI detection, and intelligent chatbots**.
 
-I recently completed a **6-month Trainee AI/ML Engineer internship**, where I worked on real company projects, research-driven systems, and end-to-end AI pipelines.
+Completed a **6-month Trainee AI/ML Engineer internship**, delivering real company projects and research-driven systems end to end.
 
 ---
 
-## 🧠 Core Expertise
+### 🔧 Core Skills
 - Machine Learning & Deep Learning  
-- Natural Language Processing (NLP)  
-- Retrieval-Augmented Generation (RAG)  
-- Vector Databases & Embeddings  
+- NLP, RAG, Embeddings, Vector Databases  
 - AI Content Detection & Humanization  
-- Time-Series Analysis & Trading Systems  
+- Time-Series Analysis  
+
+### 🛠 Tech
+Python • TensorFlow • Keras • scikit-learn • Flask • ChromaDB • Gemini API
 
 ---
 
-## 🛠️ Technical Stack
-
-### Languages & Tools
-- Python, TensorFlow, Keras  
-- scikit-learn, NumPy, Pandas  
-
-### AI / ML
-- CNNs, Transfer Learning  
-- Feature Engineering, Model Evaluation  
-
-### NLP & RAG
-- Sentence Transformers  
-- ChromaDB  
-- Prompt Engineering  
-- Gemini API  
-
-### Backend & Systems
-- Flask  
-- REST APIs  
-- Session Management  
-- Model Deployment  
+### 🚀 Projects
+**Personal:** Neural Style Transfer (VGG19), Cat vs Dog (CNN vs Xception)  
+**Internship:** AI Detector Pro, AI Humanizer, NutriChat, Company RAG Chatbot, AI Trading System  
 
 ---
 
-## 🚀 Key Projects
-
-### 🔹 Personal Projects
-- **StyleAI Pro** – Neural Style Transfer system using VGG19 (TensorFlow/Keras) for content–style fusion  
-- **Cat vs Dog Classification** – Image classification using CNN vs Transfer Learning (Xception) performance comparison  
-
-### 🔹 Internship / Company Projects
-- **AI Detector Pro** – Hybrid AI-generated text detection system with sentence-level probability analysis  
-- **AI Humanizer (Human Touch)** – System for improving human-likeness of AI-generated text  
-- **NutriChat** – AI-powered meal planning assistant using RAG and personalized user profiling  
-- **VITS AI Company Chatbot** – Enterprise RAG chatbot with strict prompt control and safe fallbacks  
-- **AI-driven Trading System** – XAU/USD time-series analysis with feature engineering and ARIMA baseline  
+### 📄 Research
+**AI Detector Pro – Detecting LLM-generated Content (IEEE-style research paper)**
 
 ---
 
-## 📄 Research
-- **Research Paper:** *AI Detector Pro – Detecting LLM-generated Content*  
-  - Focused on linguistic features, probability calibration, and sentence-level interval detection  
-  - Written following IEEE structure with experimental evaluation  
+### 🏆 Highlights
+- Google DeepMind **Gemini Hackathon 2026** – *LexiGuard*  
+- **AIESEC Hackathon 2024** – Semi-Finalist  
 
 ---
 
-## 🏆 Achievements
-- **Google DeepMind Gemini Hackathon 2026**  
-  - Project: *LexiGuard – AI Legal Risk & Compliance Reasoning Engine*  
-
-- **AIESEC Hackathon 2024 (University of Kelaniya)**  
-  - Semi-Finalist  
-  - Project: AI Face Recognition Attendance Management System  
-
----
-
-## 🎓 Education & Certifications
-- **B.ICT (Hons)** – University of Kelaniya  
-- **Machine Learning Specialization** – Stanford University & DeepLearning.AI  
-- **Deep Learning Specialization** – DeepLearning.AI  
-- **Mathematics for Machine Learning** – Imperial College London  
-
----
-
-## 🔍 What I Focus On
-- Building reliable AI systems, not just demos  
-- Applying research concepts to real-world problems  
-- Designing safe, explainable, and scalable AI solutions  
-
----
-
-## 📫 Connect
-- **LinkedIn:** www.linkedin.com/in/gaminda-premasiri-53a049301  
-- **Email:** gamindapremasiri9@gmail.com
+📫 **Contact:** gamindapremasiri9@gmail.com
