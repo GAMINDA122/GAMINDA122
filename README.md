@@ -90,5 +90,5 @@ I recently completed a **6-month Trainee AI/ML Engineer internship**, where I wo
 ---
 
 ## 📫 Connect
-- **GitHub:** www.linkedin.com/in/gaminda-premasiri-53a049301  
+- **LinkedIn:** www.linkedin.com/in/gaminda-premasiri-53a049301  
 - **Email:** gamindapremasiri9@gmail.com
