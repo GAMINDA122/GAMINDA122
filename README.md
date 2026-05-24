@@ -1,29 +1,20 @@
 # 👋 Hi, I’m Gaminda Premasiri
 
-**AI/ML Engineer | Applied NLP, RAG Systems & Intelligent AI Applications**
+##  Software Engineer | AI/ML Engineer
 
-AI/ML Engineer with hands-on experience building **production-ready AI systems**, not just models. Strong focus on **NLP, Retrieval-Augmented Generation (RAG), AI detection, and intelligent chatbots**.
+🔥 *Continuously upgrading the model in my own mind* 🔥
 
-I recently completed a **6-month Trainee AI/ML Engineer internship**, delivering real company projects and research-driven systems end to end.
+I’m a Software Engineer with a strong foundation in AI/ML, focused on building scalable, production-ready systems.
 
-### 🔧 Core Skills
-- Machine Learning & Deep Learning  
-- NLP, RAG, Embeddings, Vector Databases  
-- AI Content Detection & Humanization  
-- Time-Series Analysis  
+My interests lie in backend development, API engineering, and full-stack applications that are reliable, efficient, and maintainable.
 
-### 🛠 Tech
-Python • TensorFlow • Keras • scikit-learn • Flask • ChromaDB • Gemini API
+### 🛠 Tech Stack
+Python • TensorFlow • NumPy • Pandas • NLP • RAG • JavaScript • React • Node.js • FastAPI • Flask • .NET • MySQL • MongoDB • Docker • Git • Postman
 
-### 🚀 Projects
-**Personal:** Neural Style Transfer (VGG19), Cat vs Dog (CNN vs Xception)  
-**Internship:** AI Detector Pro, AI Humanizer, NutriChat, Company RAG Chatbot, AI Trading System  
+### 🤖 AI/ML 
+NLP • RAG Systems • Vector Databases • Embeddings • Intelligent AI Applications
 
-### 📄 Research
-**AI Detector Pro – Detecting LLM-generated Content (IEEE-style research paper)**
-
-### 🏆 Highlights
-- Google DeepMind **Gemini Hackathon 2026** – *LexiGuard*  
-- **AIESEC Hackathon 2024** – Semi-Finalist  
+### 🎯 Goal
+Engineering scalable AI-powered applications that create real-world impact.
 
 📫 **Contact:** gamindapremasiri9@gmail.com
