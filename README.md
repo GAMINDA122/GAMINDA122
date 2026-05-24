@@ -9,7 +9,7 @@ I’m a Software Engineer with a strong foundation in AI/ML, focused on building
 My interests lie in backend development, API engineering, and full-stack applications that are reliable, efficient, and maintainable.
 
 ### 🛠 Tech Stack
-Python • TensorFlow • NumPy • Pandas • NLP • RAG • JavaScript • React • Node.js • FastAPI • Flask • .NET • MySQL • MongoDB • Docker • Git • Postman
+Python • TensorFlow • NumPy • Pandas • JavaScript • React • Node.js • FastAPI • Flask • .NET • MySQL • MongoDB • Docker • Git • Postman
 
 ### 🤖 AI/ML 
 NLP • RAG Systems • Vector Databases • Embeddings • Intelligent AI Applications
